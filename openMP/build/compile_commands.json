@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pj/pj/vio/openMP/build",
+  "command": "/usr/bin/c++    -g   -fopenmp -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/pj/pj/vio/openMP/main.cpp",
+  "file": "/home/pj/pj/vio/openMP/main.cpp"
+}
+]

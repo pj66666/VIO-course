@@ -299,6 +299,8 @@ void Problem::MakeHessian() {
         // 因为对一个优化变量的雅可比就是一个矩阵了，所以对所有优化变量的雅可比用vector来统计
         assert(jacobians.size() == verticies.size());   // std::vector<MatXX>大小应该是与顶点数相同的
 
+        // 并行化处理
+        #pragma omp parallel for
         for (size_t i = 0; i < verticies.size(); ++i) {
             auto v_i = verticies[i];
             if (v_i->IsFixed()) continue;    // Hessian 里不需要添加它的信息，也就是它的雅克比为 0

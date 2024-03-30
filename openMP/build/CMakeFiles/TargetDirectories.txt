@@ -1,0 +1,3 @@
+/home/pj/pj/vio/openMP/build/CMakeFiles/rebuild_cache.dir
+/home/pj/pj/vio/openMP/build/CMakeFiles/edit_cache.dir
+/home/pj/pj/vio/openMP/build/CMakeFiles/main.dir
