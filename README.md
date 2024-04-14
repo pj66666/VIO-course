@@ -36,7 +36,12 @@ https://blog.csdn.net/qq_49561752/article/details/136288353
 
 https://blog.csdn.net/qq_49561752/article/details/136285024
 
+## 10 VIO第7讲：VINS初始化与VINS系统
+https://blog.csdn.net/qq_49561752/article/details/137720031
+
+## 11 VIO第8讲：更优的LM策略与H矩阵加速
+https://blog.csdn.net/qq_49561752/article/details/137720444
+
+
 ## 未完待续...
-
-
 
